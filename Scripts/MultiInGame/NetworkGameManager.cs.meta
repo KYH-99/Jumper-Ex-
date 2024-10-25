@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1bb13d610ebc24642823c76279aecf5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 3159316383712587640, guid: 492a793e57aa42e4f9fde5d5e946ea17, type: 3}
+  - UIStage: {instanceID: 0}
+  - RestartBtn: {instanceID: 0}
+  - PV: {instanceID: 0}
+  - playerPrefab: {fileID: 8299846466591329643, guid: 492a793e57aa42e4f9fde5d5e946ea17, type: 3}
+  - damagedClip: {fileID: 8300000, guid: 03319f9731157514d84a881bb11c6db7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

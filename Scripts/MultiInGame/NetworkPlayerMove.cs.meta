@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 62346dd1f44d2c148a1d6a89e1ff92e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RB: {instanceID: 0}
+  - AN: {instanceID: 0}
+  - SR: {instanceID: 0}
+  - PV: {instanceID: 0}
+  - NickNameText: {instanceID: 0}
+  - CM: {instanceID: 0}
+  - jumpClip: {fileID: 8300000, guid: a6c1e60051a00464bb8b336800ac1a47, type: 3}
+  - doubleJumpClip: {fileID: 8300000, guid: 04139a47eb3b79b49ad9f10834c4b3a9, type: 3}
+  - damagedClip: {fileID: 8300000, guid: 5e5e37b8b09b4e0459782e006ee4b608, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

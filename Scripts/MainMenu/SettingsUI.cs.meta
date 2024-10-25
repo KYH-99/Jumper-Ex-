@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2367ccc737780ee458506a9655f55898
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MouseControlButton: {instanceID: 0}
+  - KeyboardMouseControlButton: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - btnSoundClip: {fileID: 8300000, guid: d3bd88f80e2935f44938f5ab5f28fdc9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
